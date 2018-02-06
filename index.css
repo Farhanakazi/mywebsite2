@@ -1,0 +1,81 @@
+.mycustom{
+    background: #515050;
+    border-radius: 0;
+    
+}
+.mycustom .navbar-nav>li>a{
+    color:white;
+   
+    font-size: 20px;
+    
+}
+.mycustom .navbar-nav> .active>a{
+    background: #68f932;
+    color: white;
+}
+.mycustom .navbar-nav>li>a:hover{
+    background: #68f932;
+    color: white;
+}
+.mycustom .navbar-brand{
+    color: white;
+   
+    
+}
+.mycustom .navbar-brand:hover{
+    color: white;
+}
+.cap
+{
+    color: #1b6d85;
+    position: absolute;
+    top: 50px;
+     left: -200px;
+     
+  
+   
+}
+.services{
+    height: 450px;
+    width: 260px;
+    border:1px solid #d5d8d3;
+    margin-right: 20px;
+    margin-top: 50px;
+    text-align: center;
+}
+.iconde{
+    color: #68f932;
+
+   
+    height: 80px;
+    width: 80px;
+    padding: 30px;
+    border:1px solid  #ebecea;
+        background: #ebecea;
+        margin-top: -50px;
+        margin-right: 25px;
+}
+.btn{
+    height: 50px;
+    color: white;
+    background: #68f932;
+}
+.about{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    opacity: 0.6;
+}
+.team{
+    height: 200px;
+    margin-top: 70px;
+    margin-right: 30px;
+    border-radius: 5px;
+}
+.team_icon{
+    height: 40px;
+    width: 40px;
+    border-radius: 100px;
+    padding: 15px;
+    background: #4bc61e;
+    opacity: 0.7;
+}
